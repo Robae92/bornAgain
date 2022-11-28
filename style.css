@@ -65,7 +65,7 @@ body{
 }
 #article {
   height: auto;
-  width: 1200px;
+  width: 90%;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -74,6 +74,7 @@ body{
   border-radius: 100px;
 }
 #foliage {
+  width: 30%;
   border:10px solid transparent;
   border-radius: 100px;
 }
@@ -86,8 +87,8 @@ body{
 p {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: black;
-  font-size: 150%;
-  line-height: 3.0ch;
+  font-size: 100%;
+  line-height: 2.5ch;
 }
 #text {
   margin: 30px;
