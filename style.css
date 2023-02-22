@@ -31,6 +31,12 @@ body {
   color: blanchedalmond;
   font-size: 600%;
 }
+#quote {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: blanchedalmond;
+  justify-content: center;
+  font-size: 100%;
+}
 #description {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: blanchedalmond;
